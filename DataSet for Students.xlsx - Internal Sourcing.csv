@@ -1,0 +1,22 @@
+Employee name,Year of experience,Appraisal history,Skills/Certifications,Key projects,Duration in the current role,Bench duration,When the candidate will be available
+Arjun,6,"0.75, 0.7, 0.8","IBM Data Science, Google Analytics, MSLE","Predictive Modeling, NLP Applns",2,1,8/22/2023
+Bhavya,4,"0.85, 0.9, 0.95","Google Analytics, IBM Data Science, CCDS","Recommendation Systems, Anomaly Detection, Healthcare Analysis",2,1,8/28/2023
+Chaitanya,6,"0.75, 0.8, 1","MSLE, CCDS, IBM Data Science, Google Analytics",Financial Modeling,2,0,09-02-2023
+Divya,4,"0.7, 0.85, 0.9","CCDS, Google Analytics, IBM Data Science","Predictive Modeling, Recommendation Systems, Anomaly Detection",3,1,8/13/2023
+Esha,4,"0.75, 0.95, 1","MSLE, CCDS","NLP Applns, Healthcare Analysis",3,1,09-10-2023
+Farhan,6,"0.7, 0.85, 1","Google Analytics, IBM Data Science, CCDS","Recommendation Systems, Financial Modeling",2,0,8/20/2023
+Gauri,6,"0.8, 0.9, 1","IBM Data Science, Google Analytics, MSLE","Predictive Modeling, NLP Applns, Anomaly Detection, Healthcare Analysis",2,1,09-03-2023
+Harish,4,"0.7, 0.8, 0.9",CCDS,"Financial Modeling, NLP Applns",4,0.5,09-08-2023
+Ishita,4,"0.75, 0.85, 0.95","IBM Data Science, MSLE","Predictive Modeling, Recommendation Systems, Healthcare Analysis",2,0,8/25/2023
+Jai,3,"0.7, 0.95, 1","Google Analytics, CCDS","Anomaly Detection, Financial Modeling",4,0,09-09-2023
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Criteria,Preference,,,,,,
+ Year of Exerience, More the better,,,,,,
+Apraisal history,Above 0.7 Preferred,,,,,,
+Skills/Certifications,More skills/certifications the better,,,,,,
+Key Projects, More the better,,,,,,
+Duration of current role, More the better,,,,,,
+Bench Duration, More the better,,,,,,
+When the candidate will be available,Lesser the better,,,,,,
