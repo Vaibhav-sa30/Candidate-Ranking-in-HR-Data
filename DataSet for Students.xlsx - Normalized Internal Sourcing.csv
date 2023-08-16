@@ -1,0 +1,11 @@
+Employee name,Year of experience,Count of Appraisals > 0.7,Number of Skills,Count of Projects,Duration in the current role,Bench duration,When the candidate will be available,Flipped Days to Availability,Normalized YOE,Normalized Appraisals,Normalized Skills,Normalized Projects,Normalized Duration in the Current Role,Normalized Bench Duration,Normalized Candidate Availability,Normalized Flipped D2A
+Arjun,6,2,3,2,2,1,18,-19,1.00,0.67,0.75,0.5,0.5,1,0.49,-0.51
+Bhavya,4,3,3,3,2,1,24,-13,0.67,1.00,0.75,0.75,0.5,1,0.65,-0.35
+Chaitanya,6,3,4,1,2,0,29,-8,1.00,1.00,1,0.25,0.5,0,0.78,-0.22
+Divya,4,2,3,3,3,1,9,-28,0.67,0.67,0.75,0.75,0.75,1,0.24,-0.76
+Esha,4,3,2,2,3,1,37,0,0.67,1.00,0.5,0.5,0.75,1,1.00,0.00
+Farhan,6,2,3,2,2,0,16,-21,1.00,0.67,0.75,0.5,0.5,0,0.43,-0.57
+Gauri,6,3,3,4,2,1,30,-7,1.00,1.00,0.75,1,0.5,1,0.81,-0.19
+Harish,4,2,1,2,4,0.5,35,-2,0.67,0.67,0.25,0.5,1,0.5,0.95,-0.05
+Ishita,4,3,2,3,2,0,21,-16,0.67,1.00,0.5,0.75,0.5,0,0.57,-0.43
+Jai,3,2,2,2,4,0,36,-1,0.50,0.67,0.5,0.5,1,0,0.97,-0.03
