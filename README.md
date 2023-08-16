@@ -48,3 +48,10 @@ To replace him/her. HR opted for internal sourcing.
 In the context of the corporate job sector, "appraisal" usually refers to a "performance appraisal" or "employee performance review." It is a formal process conducted by employers or managers to assess and evaluate an employee's job performance, accomplishments, skills, strengths, areas for improvement, and contributions to the organization.
 
 
+## DataSheet Workflow
+
+- Original (Uncleaned) Data 
+- Cleaned Internal Sourcing Data
+- Normalized Internal Sourcing Data
+- Candidate Scoring Internal Sourcing Data
+- Ranked Internal Sourcing Data
