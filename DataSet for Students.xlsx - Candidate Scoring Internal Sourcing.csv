@@ -1,0 +1,11 @@
+Employee name,Normalized YOE,Normalized Appraisals,Normalized Skills,Normalized Projects,Normalized Duration in the Current Role,Normalized Bench Duration,Normalized Flipped D2A,Normalized Candidate Availability,SCORE SUM
+Arjun,1.00,0.67,0.75,0.5,0.5,1,-0.51,0.49,3.90
+Bhavya,0.67,1.00,0.75,0.75,0.5,1,-0.35,0.65,4.32
+Chaitanya,1.00,1.00,1,0.25,0.5,0,-0.22,0.78,3.53
+Divya,0.67,0.67,0.75,0.75,0.75,1,-0.76,0.24,3.83
+Esha,0.67,1.00,0.5,0.5,0.75,1,0.00,1.00,4.42
+Farhan,1.00,0.67,0.75,0.5,0.5,0,-0.57,0.43,2.85
+Gauri,1.00,1.00,0.75,1,0.5,1,-0.19,0.81,5.06
+Harish,0.67,0.67,0.25,0.5,1,0.5,-0.05,0.95,3.53
+Ishita,0.67,1.00,0.5,0.75,0.5,0,-0.43,0.57,2.98
+Jai,0.50,0.67,0.5,0.5,1,0,-0.03,0.97,3.14
